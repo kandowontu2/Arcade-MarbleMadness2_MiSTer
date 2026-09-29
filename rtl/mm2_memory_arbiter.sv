@@ -3,7 +3,7 @@
 // ROM downloading has priority. CPU, playfield, motion-object, and sound
 // reads are round-robin so none of the runtime clients can starve the others.
 //
-// Copyright (C) 2026 kandowontu and contributors
+// Copyright (C) 2026 kandowontu2 and contributors
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 module mm2_memory_arbiter

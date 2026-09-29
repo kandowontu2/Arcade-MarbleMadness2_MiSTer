@@ -5,7 +5,7 @@
 // into Player-1 joystick directions instead of pretending that the final
 // board exposes trackball counters.
 //
-// Copyright (C) 2026 kandowontu
+// Copyright (C) 2026 kandowontu2
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 module mm2_trackball_to_joystick

@@ -3,7 +3,7 @@
 // Explicit altsyncram use prevents Quartus 17 from expanding large mixed-byte
 // arrays into logic. The simulation branch remains vendor-independent.
 //
-// Copyright (C) 2026 kandowontu and contributors
+// Copyright (C) 2026 kandowontu2 and contributors
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 module mm2_m68k_ram

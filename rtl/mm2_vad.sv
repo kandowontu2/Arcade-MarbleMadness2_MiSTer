@@ -5,7 +5,7 @@
 // atarivad device. The alpha-row and motion-object parameters are retained in
 // the control array but are consumed by later phases.
 //
-// Copyright (C) 2026 kandowontu and contributors
+// Copyright (C) 2026 kandowontu2 and contributors
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 module mm2_vad

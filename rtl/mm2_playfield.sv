@@ -4,7 +4,7 @@
 // decoded from four SDRAM words using the split-half eight-bit MAME layout,
 // then written into the line buffer for the following scanline.
 //
-// Copyright (C) 2026 kandowontu and contributors
+// Copyright (C) 2026 kandowontu2 and contributors
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 module mm2_playfield

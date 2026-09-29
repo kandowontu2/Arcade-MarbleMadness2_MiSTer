@@ -2,7 +2,7 @@
 
 ## Port and integration
 
-- **kandowontu** — project maintainer, hardware bring-up, testing, and release.
+- **kandowontu2** — project maintainer, hardware bring-up, testing, and release.
 - **OpenAI Codex** — collaborative HDL implementation, debugging, verification,
   documentation, and release engineering.
 

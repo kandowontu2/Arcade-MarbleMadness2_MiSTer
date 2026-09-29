@@ -3,7 +3,7 @@
 // The interface uses a toggle request/acknowledge handshake. Address, data,
 // byte enables, and direction must remain stable until mem_ack equals mem_req.
 //
-// Copyright (C) 2026 kandowontu and contributors
+// Copyright (C) 2026 kandowontu2 and contributors
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 module mm2_sdram

@@ -6,7 +6,7 @@
 // buffers. Later objects in the list overwrite earlier objects, matching the
 // non-reversed MAME configuration.
 //
-// Copyright (C) 2026 kandowontu and contributors
+// Copyright (C) 2026 kandowontu2 and contributors
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 module mm2_motion_objects

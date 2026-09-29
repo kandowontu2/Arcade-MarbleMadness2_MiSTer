@@ -3,7 +3,7 @@
 // occupy DQ[7:0]. Full-word writes avoid depending on SDRAM byte-mask timing
 // during the high-throughput HPS download.
 //
-// Copyright (C) 2026 kandowontu and contributors
+// Copyright (C) 2026 kandowontu2 and contributors
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 module mm2_rom_loader
