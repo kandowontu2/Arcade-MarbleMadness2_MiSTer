@@ -3,7 +3,7 @@
 // Phase 3 adds the Atari VAD primary playfield, scanline IRQ, scrolling,
 // split-half eight-bit graphics decode, and IRGB1555 palette conversion.
 //
-// Copyright (C) 2026 kandowontu2 and contributors
+// Copyright (C) 2026 kandowontu and contributors
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 module mm2_core

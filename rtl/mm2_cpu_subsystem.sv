@@ -4,7 +4,7 @@
 // The CPU runs at 14.318181 MHz from alternating enables on the 57.272724 MHz
 // system clock. Program ROM reads use a toggle handshake to external SDRAM.
 //
-// Copyright (C) 2026 kandowontu2 and contributors
+// Copyright (C) 2026 kandowontu and contributors
 // SPDX-License-Identifier: GPL-2.0-or-later
 
 module mm2_cpu_subsystem

@@ -121,7 +121,7 @@ The HDL restores the OKI data to its original logical windows.
 ## Credits and licensing
 
 This port is maintained by
-[kandowontu2](https://github.com/kandowontu2) and was developed collaboratively
+[kandowontu](https://github.com/kandowontu2) and was developed collaboratively
 with OpenAI Codex. See [CREDITS.md](CREDITS.md) for the complete list of
 authors, upstream FPGA cores, modeled ICs, reference projects, and device
 acknowledgements.
